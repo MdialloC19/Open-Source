@@ -92,13 +92,23 @@ La non-conférence est un format où les participants sont encouragés à intera
 - **Apprenez et Enseignez** : Profitez de cette opportunité pour apprendre des autres et partager vos connaissances.
 
 ## 📚 Recommandations de Ressources
+### 🌐 Web
+- **["Open Source Guides"](https://opensource.guide/fr)**
+
+### 🎙️ Podcast
+- **["Command Line Heroes"](https://www.redhat.com/en/command-line-heroes/season-1)**
+- **["S8E6 - Parlons du système Unix, ces enfants et l'open source"](http://woloftech.sn/episode/s8e6-parlons-du-systeme-unix-ces-enfants-et-lopen-source)**
+
 ### 🎥 Vidéos
 - **"The Cathedral and the Bazaar"** par Eric S. Raymond : Une conférence sur les principes de l'open source.
-- **"Linus Torvalds on Git"** : Une interview de Linus Torvalds sur la création de Git.
-- **"Open Source Explained"** par Red Hat : Une vidéo éducative sur l'open source.
+- **["Linus Torvalds on Git"](https://www.youtube.com/watch?v=idLyobOhtO4)** : Une interview de Linus Torvalds sur la création de Git.
+- **["Open Source Explained"](https://www.youtube.com/watch?v=PVD1LNDxOnc)** par Red Hat : Une vidéo éducative sur l'open source.
+- **["Node.js: The Documentary | An origin story"](https://www.youtube.com/watch?v=LB8KwiiUGy0)**
+- **["Ada & Zangemann - A Tale of Software, Skateboards, and Raspberry Ice Cream"](https://media.fsfe.org/w/j1c6LQVZ8qnCLLwpXMuw3M)**
 
 ### 📖 Livres
-- **"The Cathedral & the Bazaar"** par Eric S. Raymond : Un livre fondamental sur l'open source.
-- **"Producing Open Source Software"** par Karl Fogel : Un guide sur la gestion de projets open source.
+- **["The Cathedral & the Bazaar"](https://www.youtube.com/watch?v=r6ZIxLvc9iY&list=PL1a38XXThqSZhrPLWqqPkFubQyAokvZ4-)** par Eric S. Raymond : Un livre fondamental sur l'open source.
+- **["Producing Open Source Software](https://producingoss.com/)"** par Karl Fogel : Un guide sur la gestion de projets open source.
 - **"Git Pro"** par Scott Chacon et Ben Straub : Un livre complet sur Git.
+- **["Produire du logiciel libre](https://archives.framabook.org/produire-du-logiciel-libre-2/index.html)"**
 
