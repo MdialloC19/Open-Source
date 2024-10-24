@@ -93,11 +93,14 @@ La non-conférence est un format où les participants sont encouragés à intera
 
 ## 📚 Recommandations de Ressources
 ### 🌐 Web
-- **["Open Source Guides"](https://opensource.guide/fr)**
-
+- **[Open Source Guides](https://opensource.guide/fr)** : Des guides pour comprendre et contribuer aux projets open source.
+- **[Up-for-Grabs](https://up-for-grabs.net/#)** : Liste de projets avec des tâches adaptées aux nouveaux contributeurs pour faciliter leur intégration et soutenir les projets open source.
 ### 🎙️ Podcast
 - **["Command Line Heroes"](https://www.redhat.com/en/command-line-heroes/season-1)**
 - **["S8E6 - Parlons du système Unix, ces enfants et l'open source"](http://woloftech.sn/episode/s8e6-parlons-du-systeme-unix-ces-enfants-et-lopen-source)**
+- **[FLOSS Weekly](https://twit.tv/shows/floss-weekly)** : Un podcast dédié aux logiciels libres et open source avec des interviews de développeurs et de personnalités influentes dans le domaine.
+- **[Open Source Underdogs](https://opensourceunderdogs.com/)** : Présente des histoires d'entreprises utilisant l'open source pour innover et réussir commercialement.
+- **[The GitHub ReadME Podcast](https://github.com/readme/podcast)** : Explore les histoires des personnes derrière les projets open source hébergés sur GitHub.
 
 ### 🎥 Vidéos
 - **"The Cathedral and the Bazaar"** par Eric S. Raymond : Une conférence sur les principes de l'open source.
